@@ -1,7 +1,9 @@
 # book-club-tdd
 
+The goal is to create a function that can calculate the score of a single roll of dice in the dice game "1000".
 
 ## The scoring rules of 1000 the dice game
+
 Players roll six dice which are scored in the following fashion:
 
 - A roll of 1 scores 100 points and a roll of 5 scores 50 points
