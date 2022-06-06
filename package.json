@@ -4,7 +4,7 @@
   "repository": "git@github.com:ErikMejerHansen/book-club-tdd.git",
   "author": "Erik Mejer Hansen <erik.mejer.hansen@lego.com>",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^28.1.0",
     "ts-jest": "^28.0.4"
   }
