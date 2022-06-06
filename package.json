@@ -1,0 +1,7 @@
+{
+  "name": "book-club-tdd",
+  "version": "1.0.0",
+  "repository": "git@github.com:ErikMejerHansen/book-club-tdd.git",
+  "author": "Erik Mejer Hansen <erik.mejer.hansen@lego.com>",
+  "license": "MIT"
+}
