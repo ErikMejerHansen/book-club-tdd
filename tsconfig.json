@@ -2,6 +2,7 @@
   "include": ["src/**/*.ts"],
   "compilerOptions": {
     "noEmit": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "target": "ESNext"
   }
 }
